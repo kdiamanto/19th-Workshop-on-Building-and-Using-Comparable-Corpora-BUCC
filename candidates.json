@@ -1,0 +1,83 @@
+{
+  "english": {
+    "singularia": [
+      "accuracy", "behavior", "behaviour", "billiards", "bread",
+      "checkers", "darkness", "darts", "decay", "dominoes",
+      "draughts", "economics", "electronics", "honesty", "honey",
+      "linguistics", "logic", "mathematics", "measles", "mumps",
+      "music", "news", "ninepins", "physics", "skittels",
+      "smoke", "steam", "wool", "acoustics", "athletics",
+      "bends", "craps", "dirt", "dust", "ethics",
+      "furniture", "gymnastics", "haemerrhoids", "hiccups", "hives",
+      "homework", "information", "knowledge", "luggage", "mechanics",
+      "phonetics", "politics", "rabies", "rickets", "semantics",
+      "shingles", "statistics", "wealth", "weather"
+    ],
+    "pluralia": [
+      "binoculars", "braces", "cattle", "clothes", "cutlery",
+      "foliage", "folk", "goods", "groceries", "heroics",
+      "histrionics", "hysterics", "jeans", "jewellery", "knickers",
+      "linen", "megrims", "pajamas", "pincers", "pliers",
+      "police", "pottery", "public", "pyjamas", "regimentals",
+      "scissors", "shorts", "spectacles", "suspenders", "tights",
+      "tongs", "tropics", "trousers", "vermin", "youth",
+      "amends", "annals", "arrears", "auspices", "banns",
+      "bellows", "bermudas", "bifocals", "bloomers", "bowels",
+      "boxers", "breeches", "briefs", "britches", "callipers",
+      "capris", "chinos", "clergy", "clippers", "corduroys",
+      "credentials", "dregs", "dungarees", "entrails", "flannels",
+      "forceps", "galluses", "genitalia", "glasses", "goggles",
+      "guts", "intestines", "leggings", "livestock", "minutiae",
+      "munitions", "outskirts", "pantaloons", "panties", "pants",
+      "people", "poultry", "regalia", "remains", "secateurs",
+      "shears", "skivvies", "slacks", "snippers", "staff",
+      "trunks", "tweezers"
+    ]
+  },
+  "czech": {
+    "singularia": [
+      "chůze", "cítění", "dělnictvo", "dříví", "házená",
+      "hmyz", "houští", "hukot", "jehličí", "kamení",
+      "kopaná", "kvítí", "leknutí", "mládež", "myšlení",
+      "nadšení", "peří", "rostlinstvo", "skot", "smích",
+      "spánek", "stromoví", "lidstvo", "loďstvo", "svalstvo",
+      "učivo", "řezivo"
+    ],
+    "pluralia": [
+      "bedra", "brýle", "dudy", "housle", "játra",
+      "kalhoty", "kamna", "kleště", "kraťasy", "křtiny",
+      "líbánky", "mluvidla", "montérky", "narozeniny", "neštovice",
+      "nůžky", "plavky", "plíce", "prázdniny", "prsa",
+      "příušnice", "spalničky", "šachy", "šortky", "tepláky",
+      "ústa", "Vánoce", "Velikonoce", "vidle", "vrata",
+      "záda", "zarděnky", "zásnuby", "alimenty", "bermudy",
+      "bikiny", "dveře", "dvířka", "hodiny", "hodinky",
+      "hrábě", "jesle", "kapsáče", "kvasnice", "legíny",
+      "maskáče", "necky", "noviny", "orgie", "oteplováky",
+      "sáně", "trenky", "varhany", "vrátka"
+    ]
+  },
+  "greek": {
+    "singularia": [
+      "άνθισμα", "δικαιοσύνη", "πίστη", "ξενιτιά", "παράδεισος",
+      "οικουμένη", "χριστιανισμός", "υδρογόνο", "οξυγόνο", "ασήμι",
+      "γυμναστική", "ζωγραφική", "γλυπτική", "ευγένεια", "αλήθεια",
+      "υπομονή", "ζάχαρη", "άμμος", "ρύζι", "χάος",
+      "κούραση", "όχλος"
+    ],
+    "pluralia": [
+      "περίχωρα", "εγκαίνια", "γένια", "άρματα", "βαφτίσια",
+      "κάλαντα", "τρεχάματα", "χαιρετίσματα", "πολεμοφόδια", "άμφια",
+      "εύρετρα", "γυαλικά", "ζυμαρικά", "χορταρικά", "κόμιστρα",
+      "ψηστικά", "γαλλικά", "ελληνικά", "αγγλικά", "ισπανικά",
+      "βουλγαρικά", "εργατικά", "μετρητά", "συλλυπητήρια", "συγχαρητήρια",
+      "γιδοπρόβατα", "κιάλια", "ηνία", "πρόθυρα", "προπύλαια",
+      "γενέθλια", "μάγια", "μεθεόρτια", "γηρατειά", "νιάτα",
+      "γέλια", "κλάματα", "πεθερικά", "εννιάμερα", "έξοδα",
+      "ασφάλιστρα", "χοντρά", "ψιλά", "ρέστα", "λύτρα",
+      "αρχαιρεσίες", "έγκατα", "τάρταρα", "συλληπητήρια", "σωθικά",
+      "υπάρχοντα", "γυαλιά", "μεσάνυχτα", "δίδακτρα", "λεφτά",
+      "γεράματα", "χρήματα", "λύματα", "μαθηματικά"
+    ]
+  }
+}
