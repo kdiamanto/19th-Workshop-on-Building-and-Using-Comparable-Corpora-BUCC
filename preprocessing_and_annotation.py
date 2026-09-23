@@ -453,7 +453,7 @@ def annotate_stanza(language, config):
     nlp = stanza.Pipeline(
         lang=lang_code,
         processors='tokenize,pos,lemma,depparse',
-        tokenize_pretokenized=True,
+        tokenize_pretokenized=False,
         verbose=False
     )
 
